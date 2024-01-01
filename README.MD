@@ -21,6 +21,11 @@ API_ID = ""
 API_HASH = """"
 SESSION_STRING = ""
 ```
+in file `main.py` change the `group_url` to your group url
+example:
+```python
+group_url = -100123456789
+```
 
 run the bot
 
