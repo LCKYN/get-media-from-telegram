@@ -18,7 +18,7 @@ get your bot token from [link](https://core.telegram.org/)
 
 ```
 API_ID = ""
-API_HASH = """"
+API_HASH = ""
 SESSION_STRING = ""
 ```
 in file `main.py` change the `group_url` to your group url
