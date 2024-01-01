@@ -1,6 +1,7 @@
 # Get Media From Telegram
 
-This is a simple description of your project.
+download all media(picture and video) from telegram group.
+download 5 media as same time.
 
 ## Getting Started
 
